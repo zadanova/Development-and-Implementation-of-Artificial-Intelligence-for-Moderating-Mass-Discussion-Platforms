@@ -33,8 +33,8 @@ To run these notebooks, you'll need Jupyter and several Python libraries. Here's
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-moderation-system.git
-   cd ai-moderation-system
+   git clone https://github.com/zadanova/thesis.git
+   cd thesis
    ```
 
 2. Install the required packages:
