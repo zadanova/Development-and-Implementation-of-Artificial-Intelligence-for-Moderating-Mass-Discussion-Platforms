@@ -33,8 +33,10 @@ To run these notebooks, you'll need Jupyter and several Python libraries. Here's
 
 1. Clone this repository:
    ```
-   git clone https://github.com/zadanova/thesis.git
-   cd thesis
+   git clone https://github.com/zadanova/Development-and-Implementation-of-Artificial-Intelligence-for-Moderating-Mass-Discussion-Platforms.git
+
+
+   cd Development-and-Implementation-of-Artificial-Intelligence-for-Moderating-Mass-Discussion-Platforms
    ```
 
 2. Install the required packages:
